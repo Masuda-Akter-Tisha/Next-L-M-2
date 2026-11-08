@@ -59,4 +59,4 @@ const getError = (msg : string) : never => {
     throw new Error (msg);
 }
 
-let x : string = getError ('abcd');
+// let x : string = getError ('abcd');

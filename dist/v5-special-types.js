@@ -33,5 +33,5 @@ console.log(greetings);
 const getError = (msg) => {
     throw new Error(msg);
 };
-let x = getError('abcd');
 export {};
+// let x : string = getError ('abcd');
