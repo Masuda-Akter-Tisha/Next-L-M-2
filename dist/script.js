@@ -6,3 +6,4 @@ import "./v5-special-types.js";
 import "./v7-narrowing.js";
 import "./v8-narrowing-cont.js";
 import "./v8-narrowing-cont.js";
+import "./v9-generic.js";
