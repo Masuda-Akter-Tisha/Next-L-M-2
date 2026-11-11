@@ -60,8 +60,8 @@ const move = (animal : Bird | Fish) => {
 // const date = new Date ();
 // const err = new Error ('something went wrong');
 
-// console.log(date instanceof Error);
-// console.log(err instanceof Date);
+// console.log(date instanceof Date);
+// console.log(err instanceof Error);
 
 const showDate = (x : Date | string) => {
   if (x instanceof Date) {
